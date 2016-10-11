@@ -7,5 +7,6 @@ namespace Week8Demo.Core
 {
     public class Class1
     {
+        int x = 0;
     }
 }
